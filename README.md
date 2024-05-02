@@ -1,4 +1,4 @@
-# Explainable AI for Credit Risk Project
+# Explainable AI for Credit Risk Assessment Project
 
 This repository contains resources for a project on Explainable Artificial Intelligence (XAI) in credit risk assessment. It involves tracking dataset changes, documenting data preprocessing steps, and exploring how to build and understand AI models for credit risk.
 
