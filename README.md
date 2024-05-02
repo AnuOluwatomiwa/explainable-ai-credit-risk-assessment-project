@@ -24,3 +24,6 @@ When working with the data, I am applying the following steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/explainable-ai-credit-risk-project.git
+
+## License
+This project is licensed under the [MIT License](LICENSE).
