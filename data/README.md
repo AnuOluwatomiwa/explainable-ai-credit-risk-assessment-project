@@ -23,3 +23,7 @@
 * Credit Risk Assessment: Financial institutions can use this dataset to build models that assess the credit risk associated with loan applicants.
 * Loan Approval Automation: Automated loan approval systems can be developed using this dataset to streamline the loan application process.
 * Financial Inclusion: This dataset can help analyze factors that influence loan approval, which can contribute to efforts to increase financial inclusion.
+
+#### License:
+  The dataset is anonymized and does not contain sensitive personal information to comply with data privacy regulations.
+[LICENSE](https://creativecommons.org/publicdomain/zero/1.0/)
