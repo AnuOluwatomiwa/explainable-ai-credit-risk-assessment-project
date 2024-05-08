@@ -1,4 +1,4 @@
-### dataset_v1.xslx
+### dataset_v0.xslx
   This dataset contains information about loan applications, including various attributes related to applicants and whether their loan applications were approved or denied. The dataset is designed for predictive modeling tasks, specifically for predicting whether a loan application will be approved or not based on the provided features. [Link to dataset_v1.xslx on kaggle](https://www.kaggle.com/datasets/maramsa/loan-database)
   Columns :
 
@@ -27,3 +27,12 @@
 #### License:
   The dataset is anonymized and does not contain sensitive personal information to comply with data privacy regulations.
 [LICENSE](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+### dataset_v1.xslx
+
+  This is the cleaned version of the dataset
+
+
+### dataset_v2.xslx
+  This is the standardized, normalized and encoded version of the dataset
