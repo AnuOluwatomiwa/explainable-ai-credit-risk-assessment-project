@@ -5,7 +5,7 @@ import pandas as pd
 from lime.lime_tabular import LimeTabularExplainer
 from rescale import rescale
 
-df_filename = "../data/dataset_v3.xlsx"
+df_filename = "/workspaces/explainable-ai-credit-risk-assessment-project/data/dataset_v3.xlsx"
 
 if 'model_info' not in st.session_state:
     redirect_button = st.button('Get Your Reading')
