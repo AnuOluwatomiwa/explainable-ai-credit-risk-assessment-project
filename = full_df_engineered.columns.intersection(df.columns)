@@ -1,0 +1,399 @@
+[33mcommit 917986f87a1edbadead81e78de3468a4da898a38[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Sat Jul 6 21:51:23 2024 +0000
+
+    Fixed bug rendered in XAI.py as invalid col=Loan_ID by # Adding Loan_ID to full_df_engineered
+
+[33mcommit 2cac5f9204014605e0755d85f6ebf2e15095c5a3[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Sat Jul 6 16:23:13 2024 +0000
+
+    rerun
+
+[33mcommit 89e354a60e06a92dbfa4b858dd500ac49bab8865[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Sat Jul 6 15:09:09 2024 +0000
+
+    Add
+
+[33mcommit f2b9f1e53e4b7cf27e9cd07df8189b50e323ca20[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Sat Jul 6 14:31:29 2024 +0000
+
+    df_filename line8 in LIME.py path correction
+
+[33mcommit 770b4a0397c803cb84ae437a60629bbe5e8ac0df[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Fri Jul 5 20:24:07 2024 +0000
+
+    latest
+
+[33mcommit e8411b05ce27d37256430828bccd645ec7cb04c8[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Fri Jul 5 11:51:54 2024 +0000
+
+    okay
+
+[33mcommit 99a87fdd5d26d9b161b26240e0bac41db2485005[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Fri Jul 5 11:32:03 2024 +0000
+
+    update
+
+[33mcommit 1a1ca2560c875f80c9763d7fc7b3b2f9a77ddf54[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Fri Jul 5 11:10:18 2024 +0000
+
+    update
+
+[33mcommit daaa1763460bade9c66e29971983649bf6d17d89[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Fri Jul 5 10:29:08 2024 +0000
+
+    updating repo with local version
+
+[33mcommit 7e46651680a4f0c4c0e29aa82690c531119dc928[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Sat Jun 22 01:15:05 2024 +0100
+
+    update
+
+[33mcommit e2c3fe6a0f49eb8c1fb20f32c7c68d4799f25169[m
+Merge: cc1d6f2 992aeed
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed Jun 19 00:40:07 2024 +0100
+
+    Update
+
+[33mcommit cc1d6f2747343e108c69a374a616bc336697c230[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Tue Jun 18 23:51:11 2024 +0100
+
+    Update
+
+[33mcommit 992aeedcb9fb8cbf86361618d17e887a7a528e4e[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Thu May 16 23:45:00 2024 +0100
+
+    Update
+
+[33mcommit 2d492c15043ae4a14b5349115d2d464db508efa1[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Thu May 16 01:30:09 2024 +0100
+
+    Add App.py and engineering.py
+
+[33mcommit 39223646da84d2b0cc43fbf66717f5cc9322aab6[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 15 02:47:55 2024 +0100
+
+    update model.ipynb
+
+[33mcommit cd7604621a277b87e859fc69cb582fee27bbef0d[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 15 02:46:04 2024 +0100
+
+    model.ipynb
+
+[33mcommit 484fc3b66bbf943f7c8d5be2179089703d5ad259[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Tue May 14 22:56:16 2024 +0100
+
+    Update
+
+[33mcommit 2c0aa9f30e7d7a69161202dd4623e24823b6c4c6[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Tue May 14 08:18:14 2024 +0100
+
+    Add model.ipynb
+
+[33mcommit e559687e89e453f06d69c0e24d1156f58137fce7[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 13 20:53:24 2024 +0100
+
+    Add model.ipynb
+
+[33mcommit d78f86249563b662d238eaed911b65a3da0bb689[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 13 20:46:39 2024 +0100
+
+    Add feature.ipynb
+
+[33mcommit 11ab812b5a674ac4abb72af8c88c85fd22d32bf6[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 13 20:32:13 2024 +0100
+
+    update
+
+[33mcommit a54938513e4b58f4f66dde969d81b6e3ba3892c7[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 13 20:29:50 2024 +0100
+
+    update
+
+[33mcommit 8b35ddb3547295909b5072fb4a3b62f3b13d4cfa[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 13 20:02:26 2024 +0100
+
+    continue
+
+[33mcommit 06049605f22c314848040a8df14cea7a95a6674e[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 13 14:25:46 2024 +0100
+
+    Update
+
+[33mcommit 2e5573857d6c822a1e33a6f6427680af1a4e263d[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Sun May 12 23:53:19 2024 +0100
+
+    Add joblib
+
+[33mcommit d7bb6f5859fd3143557fe3cb7b332ca36d60e800[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Fri May 10 02:57:26 2024 +0100
+
+    Serious update
+
+[33mcommit 10ea2ef46bad089e7eec318c9a40d3962ba40900[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 16:25:47 2024 +0100
+
+    Delete credit.ipynb
+
+[33mcommit f0552520225daae43181fe0e6a54507b4e2ecc63[m
+Merge: d38f49b 15c08e1
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 14:36:44 2024 +0100
+
+    Merge branch 'main' of https://github.com/AnuOluwatomiwa/explainable-ai-credit-risk-assessment-project
+
+[33mcommit d38f49bbee74396fa5673aab9ee5d3ec411e75e9[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 14:36:15 2024 +0100
+
+    Sigh
+
+[33mcommit 04b4e811a547fce67e64b99662ff21f0996b207e[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 14:24:48 2024 +0100
+
+    Update
+
+[33mcommit 8a8f74c09e371e8ce80a079787ed78a3271a5b15[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 11:31:42 2024 +0100
+
+    Update information about the dataset versions
+
+[33mcommit f80817ce9b64ba9a19c20e81b4c284eebedc0fc7[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 11:31:12 2024 +0100
+
+    Cleaned dataset output from risk.ipynb
+
+[33mcommit 2f16adc81a854feb4182447d63c7b0049a7762b8[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 11:30:06 2024 +0100
+
+    Original unaltered version of the dataset
+
+[33mcommit 02c4929afc27940ef5a2673ea9348f2c481332f6[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 08:49:53 2024 +0100
+
+    Update dataset
+
+[33mcommit 7e972528d1ab011c9355f3a43bcb8a98ef95771c[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 08:17:16 2024 +0100
+
+    Execution time increase
+
+[33mcommit 9127a6c473fa83abce57c3b1b8a3d9a097c82fee[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Wed May 8 01:49:15 2024 +0100
+
+    Add credit.ipynb
+
+[33mcommit b40ec8f97e8d158f0c0815b34254853c155d1e73[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Tue May 7 23:19:41 2024 +0100
+
+    normalize.ipynb
+
+[33mcommit 15c08e1bb10cac5b8b2551f358d996b530f99a49[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Tue May 7 14:03:49 2024 +0100
+
+    Update data_preprocessing_notes.txt
+
+[33mcommit e9fece6a6159a7b0957df4730c23a21a4798a5b1[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Tue May 7 08:45:11 2024 +0100
+
+    Save as .xlsx
+
+[33mcommit 3c100de3a548e53cff437d5e22ac4fd2753bfcc6[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 23:55:46 2024 +0100
+
+    Delete dataset.csv
+
+[33mcommit c5c8c71eab05c4dade14654d67e31ff7556e54d4[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 6 23:53:21 2024 +0100
+
+    Modify .DS_Store
+
+[33mcommit be13f2edcfeec954e817f2157a63f9781438e7b6[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 6 23:31:52 2024 +0100
+
+    Update risk.ipynb
+
+[33mcommit c2f20d40eb251e252f0628d8be3a967dbec377fd[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 6 23:04:55 2024 +0100
+
+    Add
+
+[33mcommit 2e018151f06b28a2588a0c2648c28babafa5110a[m
+Author: Israel <bamideleisrael04@gmail.com>
+Date:   Mon May 6 23:01:56 2024 +0100
+
+    Add documentation/risk.ipynb and rename dataset_v1 name
+
+[33mcommit ca2ae0a73ae7b500c8daa4cb65d4c00a932d9f82[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:39:28 2024 +0100
+
+    Update README.md
+
+[33mcommit e1ff8a043fbe0c3bfc606b537c8e30a87fa53e5b[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:36:40 2024 +0100
+
+    Update README.md
+
+[33mcommit 53aca8ee8e6f203f2ec1358724c58873d554c3f5[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:31:03 2024 +0100
+
+    Create data_preprocessing_notes.txt
+
+[33mcommit f259033cc314d5bcf27c693b040a0f64e0214432[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:30:15 2024 +0100
+
+    Delete documentation/g
+
+[33mcommit c47baaee8609a547bd185a46c5fdf653f2fd2280[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:29:21 2024 +0100
+
+    Delete data/dat
+
+[33mcommit 60c8fd2219fb1fc8388133be3dd1a2ec14dd9581[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:28:07 2024 +0100
+
+    Rename Copy of loan.xlsx to dataset_v1.xslx
+
+[33mcommit 64042bdaacceff445fabacec0847f854e2209be5[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:26:44 2024 +0100
+
+    Create README.md
+
+[33mcommit ecc96322f3b4ee39ca2611596525518c1ab95cbe[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:21:06 2024 +0100
+
+    Add files via upload
+    
+    This dataset contains information about loan applications, including various attributes related to applicants and whether their loan applications were approved or denied. The dataset is designed for predictive modeling tasks, specifically for predicting whether a loan application will be approved or not based on the provided features.
+
+[33mcommit ec0ecae325cfa124b8759c9fe898d4c84e54b8ac[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:18:34 2024 +0100
+
+    Rename dataset_v1.csv to dat
+
+[33mcommit e2efbd92057b4e3492e7a4a444582a80b69f16dd[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 15:18:10 2024 +0100
+
+    Update and rename h to dataset_v1.csv
+
+[33mcommit 522b1b89f8450696d10e91a1bba172cf79840037[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 03:24:36 2024 +0100
+
+    Create h
+
+[33mcommit 979fe6d56402649e6cf68847a4c6cd2cac6ad835[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 03:24:11 2024 +0100
+
+    Delete documentation/data directory
+
+[33mcommit 045c3dc53d2ef434ca65df328703a108539a8381[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 03:23:38 2024 +0100
+
+    Create s
+
+[33mcommit 3d75bb110d137952b055d3bfd2208df7f4fc033d[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 03:23:15 2024 +0100
+
+    Create g
+
+[33mcommit 2e747a5dfa4559189b87bb62cfbec3ea019c9291[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 03:22:50 2024 +0100
+
+    Delete doc directory
+
+[33mcommit 9a66d14008371f1f3f9b5eeaa4a89d6ed943d6ab[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 03:22:03 2024 +0100
+
+    Create n
+
+[33mcommit 80c01438255450da504b2c6123eb77388ad5fdbd[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Mon May 6 03:21:18 2024 +0100
+
+    Create dataset.csv
+
+[33mcommit 5357dc6ba367fa309a539885eb8f5ca541a30a05[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Thu May 2 10:31:43 2024 +0100
+
+    Update README.md
+
+[33mcommit 577130c30fc6822da4465dc41dc655444660f17a[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Thu May 2 07:00:18 2024 +0100
+
+    Update README.md
+
+[33mcommit 1ab95a395e02f8a3b1b54ad49c23bbadd2577704[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Thu May 2 06:54:56 2024 +0100
+
+    Create LICENSE
+
+[33mcommit 5b3c907c898a6dc1e307783aeaf0f4cb12f9d64a[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Tue Apr 30 16:21:58 2024 +0100
+
+    Update README.md
+
+[33mcommit f98a2204a76798cf179b88e9e9464df3ac981dfd[m
+Author: Bamidele Israel Anuoluwatomiwa <bamideleisrael04@gmail.com>
+Date:   Tue Apr 30 16:17:29 2024 +0100
+
+    Initial commit
