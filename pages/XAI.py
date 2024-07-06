@@ -38,7 +38,7 @@ else:
     model = st.session_state['model']
     
     x_train_filename = "data/x_train.csv"
-    x_test_filename = "data/x_test.csv"
+    x_test_filename = "../data/x_test.csv"
     
     x_train, x_test = get_data(x_train_filename, x_test_filename)
 
