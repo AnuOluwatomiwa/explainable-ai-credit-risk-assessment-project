@@ -1,3 +1,4 @@
+ipython
 lime
 openpyxl
 plotly
