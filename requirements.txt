@@ -1,4 +1,5 @@
 ipython
+ipykernel
 lime
 openpyxl
 plotly
