@@ -1,6 +1,7 @@
-openpyxl
-xgboost
-seaborn
-scikit-learn
 lime
+openpyxl
+plotly
+scikit-learn
+seaborn
 shap
+xgboost
