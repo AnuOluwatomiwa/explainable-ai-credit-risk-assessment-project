@@ -2,6 +2,8 @@
 
 This repository contains resources for a project on Explainable Artificial Intelligence (XAI) in credit risk assessment. It involves tracking dataset changes, documenting data preprocessing steps, and exploring how to build and understand AI models for credit risk.
 
+Deployed using streamlit https://explainable-ai-credit-risk-assessment-project-ahm6yirrymqxnmwn.streamlit.app/
+
 ## Project Background
 This project is my final year work for 2024, where I am focusing on implementing XAI techniques in credit risk assessment. The objective is to develop models that are both accurate and easy to explain, helping to shed light on the factors that drive credit risk decisions. This repository has a collection of datasets, scripts, and documentation related to the implementation.
 
